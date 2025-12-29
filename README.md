@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi 👋, I'm Rajan Kumar<br><br>🎯 Aspiring Data Analyst | Python Enthusiast | Power BI Learner | MySQL Learner <br><br>I am a motivated learner with interest in **Data Analytics, Python, SQL, and Visualization tools**.  <br>I enjoy working with data, finding insights, and building dashboards that help in decision making.<br
+# Hi 👋, I'm Rajan Kumar<br><br>🎯 Aspiring Data Analyst | Python Enthusiast | Power BI Learner | MySQL Learner <br><br>I am a motivated learner with interest in **Data Analytics, Python, SQL, and Visualization tools**.  <br>I enjoy working with data, finding insights, and building dashboards that help in decision making.
 
 
 ## 🌐 Socials:
